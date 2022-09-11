@@ -12,17 +12,17 @@ Challenge completed
 ### `Challenge days`
 
 
-- [x] `Done` - 01th of Learning Arabic 
+- [x] `Done` - 01th  
 
-- [x] `Done` - 02th of Learning Arabic
+- [x] `Done` - 02th  
 
-- [ ] `In progress` - 03th of Learning Arabic
+- [ ] `In progress` - 03th  
 
-- [ ] `In progress` - 04th of Learning Arabic
+- [ ] `In progress` - 04th  
 
-- [ ] `In progress` - 05th of Learning Arabic
+- [ ] `In progress` - 05th  
 
-- [ ] `In progress` - 06th of Learning Arabic
+- [ ] `In progress` - 06th  
 
-- [ ] `In progress` - 07th of Learning Arabic
+- [ ] `In progress` - 07th  
 
