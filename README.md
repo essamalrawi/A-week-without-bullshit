@@ -6,15 +6,15 @@
 ---
 Challenge completed
 
-![0%](https://progress-bar.dev/0/?title=Done)
+![30%](https://progress-bar.dev/30/?title=Done)
 
 
 ### `Challenge days`
 
 
-- [ ] `In progress` - 01th of Learning Arabic 
+- [x] `Done` - 01th of Learning Arabic 
 
-- [ ] `In progress` - 02th of Learning Arabic
+- [x] `Done` - 02th of Learning Arabic
 
 - [ ] `In progress` - 03th of Learning Arabic
 
