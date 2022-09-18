@@ -18,11 +18,11 @@ Challenge completed
 
 - [x] `Done` - 03th  
 
-- [ ] `In progress` - 04th  
+- [x] `Done` - 04th  
 
-- [ ] `In progress` - 05th  
+- [x] `Done` - 05th  
 
-- [ ] `In progress` - 06th  
+- [x] `Done` - 06th  
 
-- [ ] `In progress` - 07th  
+- [x] `Done` - 07th  
 
